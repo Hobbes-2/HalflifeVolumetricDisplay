@@ -26,3 +26,6 @@ while True:
     for _ in range(5):
         light_half(4, 8)
         time.sleep(FRAME_TIME)
+
+
+#code assisted by ai - NOT ALL MY WORKK
