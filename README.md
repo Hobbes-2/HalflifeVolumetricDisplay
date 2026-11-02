@@ -55,3 +55,29 @@ CAD
 
 
 
+## Bill of Materials
+
+| # | Part / Component | Quantity | Price (USD) | Purchase Link |
+|---:|---|---:|---:|---|
+| 1 | 8x8 Display | 1 | $12.22 | [DigiKey](https://www.digikey.com/en/products/detail/boardoza/B0501V10000175/30278350) |
+| 2 | RF5000 Motor | 1 | $11.55 | [DigiKey](https://www.digikey.com/en/products/detail/mabuchi-motor/RF500TB-12560/29784571) |
+| 3 | IRLZ44NPBF Transistor | 1 | $1.80 | [DigiKey](https://www.digikey.com/en/products/detail/infineon-technologies/IRLZ44NPBF/811808) |
+| 4 | 1N4007 Diode | 1 | $0.14 | [DigiKey](https://www.digikey.com/en/products/detail/diotec-semiconductor/1N4007/18833652) |
+| 5 | 220kΩ Resistor | 1 | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT220K/1741641) |
+| 6 | 10kΩ Resistor | 1 | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT10K0/1741566) |
+| 7 | 330Ω Resistor | 1 | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT330R/1741399) |
+| 8 | 74AHCT125 Logic IC | 1 | $0.95 | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/SN74AHCT125N/375798) |
+| 9 | 100nF Capacitor | 1 | $0.11 | [DigiKey](https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J104KE19D/702433) |
+| 10 | Raspberry Pi Pico | 1 | $5.00 | [Adafruit](https://www.adafruit.com/product/5525) |
+| 11 | Terminal Connectors | 2 | $1.06 | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TB007-508-02BE/10064127) |
+| 12 | PCB | 1 | $11.43 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
+| 13 | CAD / 3D Printing | 1 | $6.00 | [PrintLegion](https://printlegion.hackclub.com/printers) |
+| 14 | Screws | 100 | $4.92 | [DigiKey](https://www.digikey.com/en/products/detail/bfirst-industrial/MPMS-003-0005-PH/274953) |
+
+### Cost Summary
+
+**Total Project Cost: $55.48 USD (tax included).**
+
+
+! Formatted with AI
+Not all parts were bought for this project - some I already had
